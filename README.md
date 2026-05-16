@@ -23,7 +23,7 @@ Building scalable web applications, AI-powered systems, and modern user experien
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,typescript,tailwind,postgres,mongodb,supabase,docker,aws,cloudflare,redis,git,blender" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,html,css,javascript,typescript,tailwind,postgres,mongodb,supabase,docker,aws,cloudflare,redis,git,blender" />
 </p>
 
 ---
