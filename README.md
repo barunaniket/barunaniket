@@ -14,7 +14,7 @@ Building scalable web applications, AI-powered systems, and modern user experien
 
 * 🎓 B.Tech CSE (AI & ML) @ PES University
 * 💼 Software Engineer at **KaizenDev**
-* 👨‍💻 Technical Team Member at **CodeChef PESUECC**
+* 👨‍💻 Club Head at **CodeChef PESUECC**
 * 🏆 Student Mentor For Hackathons
 * 📍 Bengaluru, India
 
